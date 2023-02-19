@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - main block 
- * Return: o
+ * Return: O
  */
 int main(void)
 {
